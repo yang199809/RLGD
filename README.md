@@ -8,7 +8,7 @@ RLGD provides 100 UAV images at 3000 × 4000 pixels, with 1.2 billion labeled pi
 
 ## Dataset
 
-The release contains **1,200 overlapping 1024 × 1024 image tiles** and their semantic masks.
+The release contains **1,200 1024 × 1024 image tiles** and their semantic masks.
 
 | Split | Source images | Tiles |
 |---|---:|---:|
